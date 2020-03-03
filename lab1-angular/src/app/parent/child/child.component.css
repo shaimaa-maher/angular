@@ -1,0 +1,11 @@
+.child
+{  
+    background-color: mediumslateblue;
+    height: 150px;
+    width: 150px;
+    border-radius: 25px;
+    margin:0 auto;
+    top: 30px;
+    padding: 20px;
+}
+

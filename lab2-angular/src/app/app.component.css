@@ -1,0 +1,19 @@
+/* .breadcrumb>li+li:before
+ { padding: 0 5px; color: #ccc; content: "|"; } */
+
+
+ .navbar-nav>li+li :before
+ { 
+      color: #ccc; 
+      content: "|"; 
+      padding-left: 2px;
+      padding-right: 5px;
+}
+.navbar-nav{
+    
+    padding-left: 650px;
+}
+
+.navbar-brand{
+    padding-left: 660px;
+}

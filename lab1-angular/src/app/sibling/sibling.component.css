@@ -1,0 +1,14 @@
+.sibling
+{
+    background-color: palevioletred;
+    height: 45vh;
+    width: 45vw;
+    border-radius: 25px;
+}
+
+
+p{
+    text-align: center;
+    /* margin: auto; */
+    color: lightyellow;
+}
